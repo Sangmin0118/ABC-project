@@ -8,7 +8,7 @@
 
 \- JavaScript
 
-
+\- Git \& Git hup 
 
 \## 🎯 목표
 
